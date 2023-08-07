@@ -1299,13 +1299,13 @@
  */
 .theme-dark,
 .theme-light {
-  --background-accent: rgb(35, 4, 49);
+  --background-accent: rgb(50, 4, 49);
   --background-primary: var(--background-accent);
-  --background-secondary: rgb(28, 0, 40);
-  --background-secondary-alt: rgb(22, 0, 33);
+  --background-secondary: rgb(43, 0, 40);
+  --background-secondary-alt: rgb(37, 0, 33);
   --background-floating: var(--background-secondary-alt);
-  --background-tertiary: rgb(13, 0, 23);
-  --background-mentioned: rgba(104, 45, 145, 0.2);
+  --background-tertiary: rgb(28, 0, 23);
+  --background-mentioned: rgba(119, 45, 145, 0.2);
   --background-nested-floating: var(--background-secondary);
   --background-mobile-primary: var(--background-primary);
   --background-mobile-secondary: var(--background-secondary);
@@ -1313,7 +1313,7 @@
   --background-modifier-active: rgba(var(--amethyst-primary-rgb), 0.24);
   --background-modifier-selected: rgba(var(--amethyst-primary-rgb), 0.32);
   --activity-card-background: var(--background-tertiary);
-  --channeltextarea-background: rgb(45, 15, 61);
+  --channeltextarea-background: rgb(60, 15, 61);
   --text-link: var(--amethyst-cyan);
   --brand-experiment: var(--amethyst-brand);
   --brand-experiment-500: var(--amethyst-brand);
